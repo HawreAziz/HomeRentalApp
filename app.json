@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HomeRentalApp",
+    "slug": "HomeRentalApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HomeRentalApp"
+}
